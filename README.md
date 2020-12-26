@@ -1,4 +1,4 @@
-# ** Training Session on Coding **
+#  Training Session on Coding 
 
 Session for Faculty
 
